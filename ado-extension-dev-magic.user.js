@@ -8,6 +8,7 @@
 // @match        https://*.visualstudio.com/*
 // @grant        none
 // @run-at       document-start
+// @license      MIT
 // @homepageURL  https://github.com/vs4vijay/ado-extension-dev-magic
 // @supportURL   https://github.com/vs4vijay/ado-extension-dev-magic/issues
 // @updateURL    https://raw.githubusercontent.com/vs4vijay/ado-extension-dev-magic/main/ado-extension-dev-magic.user.js
@@ -283,3 +284,4 @@
     reinitialize: init,
   };
 })();
+
